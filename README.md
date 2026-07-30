@@ -95,7 +95,7 @@ Created by Yayeh Ismael as part of an AI Automation portfolio.
 
 ###Customer Form
 
-screenshots/Submiting form.png
+![Customer Form](screenshots/Submitting%20form.png)
 
 ###Make Workflow
 
