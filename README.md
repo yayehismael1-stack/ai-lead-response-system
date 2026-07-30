@@ -39,6 +39,16 @@ The workflow automatically:
 
 ---
 
+## Business Value
+
+1. Faster response to inquiries
+2. Automatic identification of emergency requests
+3. Reduce manual triage
+4. Consistent customer communication
+5. Improve lead management
+
+---
+
 ## Technologies Used
 
 - OpenAI API
