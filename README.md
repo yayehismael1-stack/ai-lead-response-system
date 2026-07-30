@@ -89,6 +89,14 @@ Customer Confirmation Email
 
 ---
 
+## Project Summary
+
+- Lead Capture  [Completed]
+- AI Qaulification [Completed]
+- Priority Routing [Completed]
+- SMS Notifications [Planned]
+- Appointment Booking [Planned]
+
 ## Future Improvements
 
 - SMS notifications
