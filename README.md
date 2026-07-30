@@ -90,3 +90,21 @@ Customer Confirmation Email
 ## Author
 
 Created by Yayeh Ismael as part of an AI Automation portfolio.
+
+##screenshots
+
+###Customer Form
+
+![Customer Form](screenshots/Submitting%20form.png)
+
+###Make Workflow
+
+![Workflow](screenshots/Make-Workflow.png)
+
+### OpenAI Output
+
+![OpenAI](screenshots/OpenAI%20Output.png)
+
+### Emergency Email
+
+![Emergency](screenshots/Emergency%20Email.png)
