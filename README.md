@@ -61,17 +61,26 @@ The workflow automatically:
 
 ## Workflow
 
-Customer Form (Tally)
-↓
+Customer
+    │
+    ▼
+Tally Form
+    │
+    ▼
 Make Automation
-↓
-OpenAI Lead Qualification
-↓
+    │
+    ▼
+OpenAI Analysis
+    │
+    ▼
 Priority Router
-├── Emergency Notification
-└── Standard Notification
-↓
-Customer Confirmation Email
+ ┌─────────────┐
+ ▼             ▼
+Emergency   Standard
+ Email        Email
+      │
+      ▼
+Customer Confirmation
 
 ---
 
