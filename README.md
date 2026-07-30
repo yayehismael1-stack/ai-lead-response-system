@@ -65,6 +65,19 @@ Customer Confirmation Email
 
 ---
 
+## Skills Demonstrated
+
+- Workflow Automation
+- AI Prompt Engineering
+- OpenAI API Integration
+- Conditional Routing
+- Email Automation
+- HTML Email Templates
+- Form Automation
+- Business Process Automation
+
+  ---
+  
 ## Features
 
 - AI-powered lead qualification
