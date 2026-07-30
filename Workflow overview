@@ -1,0 +1,20 @@
+Customer
+    │
+    ▼
+Tally Form
+    │
+    ▼
+Make Automation
+    │
+    ▼
+OpenAI Analysis
+    │
+    ▼
+Priority Router
+ ┌─────────────┐
+ ▼             ▼
+Emergency   Standard
+ Email        Email
+      │
+      ▼
+Customer Confirmation
