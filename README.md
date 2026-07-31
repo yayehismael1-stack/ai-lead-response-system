@@ -113,7 +113,7 @@ Customer Confirmation
 - Lead Capture  [Completed]
 - AI Qaulification [Completed]
 - Priority Routing [Completed]
-- SMS Notifications [Planned]
+- SMS Notifications [Completed]
 - Appointment Booking [Planned]
 
 ## Future Improvements
