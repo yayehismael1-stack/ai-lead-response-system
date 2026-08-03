@@ -1,0 +1,7 @@
+.env
+memory/*.md
+!memory/.gitkeep
+__pycache__/
+*.pyc
+data/demo/vault/
+data/demo/*.json
