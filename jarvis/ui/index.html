@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>JARVIS</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<canvas id="graph"></canvas>
+
+<div id="notices"></div>
+
+<section class="panel" id="left">
+  <div id="brand">
+    <h1>JARVIS</h1>
+    <span id="mode">—</span>
+  </div>
+
+  <div>
+    <div class="label">Inspector</div>
+    <div id="inspector"><div class="empty">Click a node to open it. Shift-click a second to trace the path between them.</div></div>
+  </div>
+
+  <div>
+    <div class="label">Top hubs</div>
+    <div id="hubs"></div>
+  </div>
+</section>
+
+<section class="panel" id="right">
+  <div id="reactor-wrap">
+    <canvas id="reactor" width="264" height="264"></canvas>
+    <div id="state">idle</div>
+  </div>
+
+  <div>
+    <div class="label">Filter</div>
+    <div id="filters"></div>
+  </div>
+</section>
+
+<div id="transcript"></div>
+
+<section class="panel" id="bottom">
+  <div id="caption"></div>
+  <div id="askrow">
+    <div id="meters"></div>
+    <input id="ask" autocomplete="off" placeholder="Ask me something.">
+    <button class="btn" id="mic">MIC</button>
+    <button class="btn" id="mute">MUTE</button>
+    <button class="btn" id="brief">BRIEF</button>
+    <button class="btn" id="plan">PLAN</button>
+    <button class="btn" id="mem">MEMORY</button>
+  </div>
+</section>
+
+<div id="badges"></div>
+
+<script src="graph.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
